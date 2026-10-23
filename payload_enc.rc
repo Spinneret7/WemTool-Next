@@ -1,0 +1,8 @@
+#include <windows.h>
+
+101 RCDATA "tools\\ww2ogg.exe"
+102 RCDATA "tools\\packed_codebooks_aoTuV_603.bin"
+103 RCDATA "tools\\mp.exe"
+104 RCDATA "tools\\oggre_enc.exe"
+105 RCDATA "tools\\oggre_dec.exe"
+106 RCDATA "tools\\hdiffz.exe"

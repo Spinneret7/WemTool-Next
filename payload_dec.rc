@@ -1,0 +1,5 @@
+#include <windows.h>
+
+201 RCDATA "tools\\oggre_dec.exe"
+202 RCDATA "tools\\mp.exe"
+203 RCDATA "tools\\hpatchz.exe"
